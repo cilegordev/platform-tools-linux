@@ -3,7 +3,7 @@
 # osm0sis @ xda-developers
 
 cd "$PWD";
-rm -rf ramdisk split_img boot.img new.* *.gz;
+rm -rf ramdisk split_img *.img *.gz;
 echo "Working directory cleaned.";
 return 0;
 
